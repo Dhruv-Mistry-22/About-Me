@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Dhruv Mistry
-- 🌱 I’m currently learning React.
+
+- 
 - 🎓 Currently pursuing a **Diploma in Computer Engineering**.
 - 📚 Always eager to learn and improve my skills.
 
