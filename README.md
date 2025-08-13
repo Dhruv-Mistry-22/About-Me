@@ -1,3 +1,5 @@
+:
+
 👋 Hey there! I'm Dhruv Mistry
 
 🎓 I’ve successfully completed my Diploma in Computer Engineering and am now pursuing my B.Tech in Computer Engineering at Charusat University.
@@ -30,3 +32,4 @@ MySQL · MongoDB · Oracle · Git · VS Code · Android Studio · Canva
 🌐 GitHub: Dhruv-Mistry-22
 
 🌟 Turning ideas into robust solutions — with curiosity, creativity, and code.
+
