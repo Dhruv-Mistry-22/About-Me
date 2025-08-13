@@ -1,36 +1,45 @@
-# 👋 Hey there! I'm Dhruv Mistry
+👋 Hey there! I'm Dhruv Mistry
 
-🎓 I'm currently pursuing a **Diploma in Computer Engineering**, with a passion for building practical and meaningful software.
+🎓 I’ve successfully completed my Diploma in Computer Engineering and am now pursuing my B.Tech in Computer Engineering at Charusat University.
 
-🧠 I believe in learning by doing — from Android apps to backend systems, I enjoy turning ideas into working products.
+💡 I’m passionate about designing and developing impactful, real-world applications that solve problems and enhance user experience.
 
-💬 What I enjoy working on:
-- 📱 **Android App Development** using Java  
-- 🌐 **Full Stack Web Projects** (HTML, CSS, JS, React, PHP)  
-- 🧩 **DSA Practice** in C++ & Java  
-- 📡 **Networking** concepts and simulations  
-- 💾 **Database Management** (SQL & NoSQL — Oracle, MongoDB)  
-- 🔒 **Information Security Basics** & system-level awareness  
-- 🤖 Exploring **Machine Learning** fundamentals  
+💬 Areas I work on:
 
-🚀 Projects I'm proud of:
-- 🤖 **ManTra** – My chatbot app built with Java  
-- 📝 **Text Cabin** – A clean, focused writing tool made in React  
-- 🌐 **WorldScope** – A modern, real-time news app  
-- 📓 **CoreNotes** – A minimal note-taking web app  
-- 📡 **Network Discovery Package** – Tools for learning and testing network setups  
-- 🎮 Fun Games – Hangman, Tic Tac Toe, and Stone-Paper-Scissors  
+📱 Android App Development (Java & Kotlin)
 
-🛠️ Tools & Tech I use:
-`Java` `C++` `Python` `HTML` `CSS` `JavaScript` `React` `PHP`  
-`MySQL` `MongoDB` `Git` `VS Code` `Android Studio` `Canva`
+🌐 Full Stack Web Development (HTML, CSS, JavaScript, React, PHP)
 
-📬 Get in touch:
-- 🌐 GitHub: [Dhruv-Mistry-22](https://github.com/Dhruv-Mistry-22)
+🧩 Data Structures & Algorithms in C++ & Java
 
----
+📡 Computer Networking concepts, tools, and simulations
 
-🌟 *I build, break, and learn every day — one project at a time.*
+💾 Database Management (SQL & NoSQL — Oracle, MySQL, MongoDB)
 
+🔒 Information Security Basics and system-level optimizations
 
+🤖 Exploring Machine Learning and AI applications
 
+🚀 Selected Projects:
+
+🤖 ManTra – A professional chatbot app built in Java with offline Q&A logic
+
+📝 Text Cabin – A unique, distraction-free writing tool in React
+
+🌐 WorldScope – Real-time, modern news platform
+
+📓 CoreNotes – Minimal and efficient note-taking web app
+
+📡 Network Discovery Package – Tools to study and test networking setups
+
+🎮 Fun & Interactive Games – Hangman, Tic Tac Toe, and Stone-Paper-Scissors
+
+🛠️ Tech & Tools I work with:
+Java C++ Python HTML CSS JavaScript React PHP
+MySQL MongoDB Oracle Git VS Code Android Studio Canva
+
+📬 Connect with me:
+
+🌐 GitHub: Dhruv-Mistry-22
+
+🌟 Turning ideas into robust solutions — with curiosity, creativity, and code.
